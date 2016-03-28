@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws_2/devel
+
+Name: rgbd_test
+Description: Description of rgbd_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_ws_2/devel/lib 
+Requires: 

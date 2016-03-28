@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rgbd_test")
+set(rgbd_test_MAINTAINER "ee125 <ee125@todo.todo>")
+set(rgbd_test_DEPRECATED "")
+set(rgbd_test_VERSION "0.0.0")
+set(rgbd_test_BUILD_DEPENDS )
+set(rgbd_test_RUN_DEPENDS )
+set(rgbd_test_BUILDTOOL_DEPENDS "catkin")
